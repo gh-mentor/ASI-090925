@@ -6,9 +6,9 @@ Email: andrew.scoppa@atmosera.com
 
 LinkedIn: [Andrew Scoppa](https://www.linkedin.com/in/andrewscoppa/)
 
-## C# Workshop Repository
+## C++ Workshop Repository
 
-[GitHub Repository](https://github.com/gh-mentor/c-sharp-workshop)
+[GitHub Repository](https://github.com/gh-mentor/cpp-workshop.git)
 
 ## OpenAI
 
