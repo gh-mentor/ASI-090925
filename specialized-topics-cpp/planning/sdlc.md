@@ -8,6 +8,7 @@ I am an experienced software engineer and would like an overview how GitHub Copi
 
 ## Designing a Web-Based Invoicing Application with GNU C++ (REST API) and ReactJS
 
+```
 My team consists of experienced GNU C++ developers. I need step-by-step guidance to design a web-based invoicing application with the following requirements:
 
 1. Build a RESTful API for managing invoices and clients.
@@ -47,7 +48,7 @@ I also need help creating a test plan for the invoicing application that include
 - Test resources
 - Test deliverables
 
----
+```
 
 ## System Planning,  Design, and Implementation for Azure Infrastructure
 
