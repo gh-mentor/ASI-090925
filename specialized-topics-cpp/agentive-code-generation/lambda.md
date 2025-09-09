@@ -3,7 +3,7 @@ Use the Agent mode to perform all steps.
 
 ## Instructions to create an app using Agentive AI (GNU C++)
 
-1. Create a new C++ file named `main.cpp` in the current directory.
+1. Create a new C++ file named `main.cpp` in a folder named 'app'.
 
 2. At the top, include the necessary headers for input/output and collections:
    - `#include <iostream>`

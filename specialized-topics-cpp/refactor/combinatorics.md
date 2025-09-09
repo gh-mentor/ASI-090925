@@ -7,7 +7,7 @@ C(n, r) = n! / (r! * (n - r)!)
 
 3) Implement the 'comb' function using the memoized 'fact' function.
 
-4) Refactor into a class named 'Combinatorics' with static methods for 'fact', 'perm', and 'comb'.
+4) Refactor into a class named 'Combinatorics' with static methods for 'fact', 'perm', and 'comb'. Implement the change adhering to SOLID design principles.
 
 5) Add xml documentation to the class and all methods.
 
